@@ -77,11 +77,11 @@
     <resource identifier="gd8d68acf17e0132d82725147db332c8a" type="webcontent" href="wiki_content/t-basic-syllabus.html">
       <file href="wiki_content/t-basic-syllabus.html"/>
     </resource>
-    <resource identifier="ga98c8d1f90eedda39c232691fcac97ad" type="webcontent" href="wiki_content/t-basic-course-welcome-page.html">
-      <file href="wiki_content/t-basic-course-welcome-page.html"/>
-    </resource>
     <resource identifier="g5f72dc5767a5e5414d7f1e3a85714d2f" type="webcontent" href="wiki_content/t-how-to-use-canvas.html">
       <file href="wiki_content/t-how-to-use-canvas.html"/>
+    </resource>
+    <resource identifier="ga98c8d1f90eedda39c232691fcac97ad" type="webcontent" href="wiki_content/t-basic-course-welcome-page.html">
+      <file href="wiki_content/t-basic-course-welcome-page.html"/>
     </resource>
     <resource identifier="g53154225811ec7a1e5177b87a83d9baf" type="webcontent" href="wiki_content/t-star-advanced-star-course-welcome-page-with-masthead-image-and-weekly-accordions.html">
       <file href="wiki_content/t-star-advanced-star-course-welcome-page-with-masthead-image-and-weekly-accordions.html"/>
@@ -131,6 +131,12 @@
     </resource>
     <resource type="webcontent" identifier="gfee734997b66e28e9aefbb7f7428aad9" href="web_resources/DU Theme/style.css">
       <file href="web_resources/DU Theme/style.css"/>
+    </resource>
+    <resource type="webcontent" identifier="ge0f6d2c3e0e25b11a8e0fcfdfd99383e" href="web_resources/DU Theme/textbook_cover.png">
+      <file href="web_resources/DU Theme/textbook_cover.png"/>
+    </resource>
+    <resource type="webcontent" identifier="ga3d3f7d590b9bbbd2861c6924987968e" href="web_resources/DU Theme/manual_cover.png">
+      <file href="web_resources/DU Theme/manual_cover.png"/>
     </resource>
   </resources>
 </manifest>
