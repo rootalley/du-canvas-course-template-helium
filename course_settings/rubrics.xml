@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rubrics xmlns="http://canvas.instructure.com/xsd/cccv1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://canvas.instructure.com/xsd/cccv1p0 https://canvas.instructure.com/xsd/cccv1p0.xsd">
+  <rubric identifier="ge1372e44d4f2d7ee84ba9ca64f7935a9">
+    <read_only>false</read_only>
+    <title>Collaboratively Designed Discussion Rubric</title>
+    <reusable>false</reusable>
+    <public>false</public>
+    <points_possible>15.0</points_possible>
+    <hide_score_total>false</hide_score_total>
+    <free_form_criterion_comments>false</free_form_criterion_comments>
+    <criteria>
+      <criterion>
+        <criterion_id>122682_7837</criterion_id>
+        <points>1.0</points>
+        <description>Original Post On Time</description>
+        <ratings>
+          <rating>
+            <description>Satisfactory</description>
+            <points>1.0</points>
+            <criterion_id>122682_7837</criterion_id>
+            <id>blank</id>
+          </rating>
+          <rating>
+            <description>Unsatisfactory</description>
+            <points>0.0</points>
+            <criterion_id>122682_7837</criterion_id>
+            <id>blank_2</id>
+          </rating>
+        </ratings>
+      </criterion>
+      <criterion>
+        <criterion_id>122682_3829</criterion_id>
+        <points>1.0</points>
+        <description>Response Post On Time</description>
+        <ratings>
+          <rating>
+            <description>Satisfactory</description>
+            <points>1.0</points>
+            <criterion_id>122682_3829</criterion_id>
+            <id>122682_2318</id>
+          </rating>
+          <rating>
+            <description>Unsatisfactory</description>
+            <points>0.0</points>
+            <criterion_id>122682_3829</criterion_id>
+            <id>122682_515</id>
+          </rating>
+        </ratings>
+      </criterion>
+      <criterion>
+        <criterion_id>122682_4471</criterion_id>
+        <points>3.0</points>
+        <description>Response to Question 1</description>
+        <ratings>
+          <rating>
+            <description>Detailed Engagement with Text</description>
+            <points>3.0</points>
+            <criterion_id>122682_4471</criterion_id>
+            <id>122682_4382</id>
+          </rating>
+          <rating>
+            <description>Adequate Engagement with Text</description>
+            <points>2.0</points>
+            <criterion_id>122682_4471</criterion_id>
+            <id>122682_9846</id>
+          </rating>
+          <rating>
+            <description>Minimal Engagement with Text</description>
+            <points>1.0</points>
+            <criterion_id>122682_4471</criterion_id>
+            <id>122682_4486</id>
+          </rating>
+          <rating>
+            <description>No Engagement with Text</description>
+            <points>0.0</points>
+            <criterion_id>122682_4471</criterion_id>
+            <id>122682_1993</id>
+          </rating>
+        </ratings>
+      </criterion>
+      <criterion>
+        <criterion_id>122682_5715</criterion_id>
+        <points>3.0</points>
+        <description>Response to Question 2</description>
+        <ratings>
+          <rating>
+            <description>Detailed Engagement with Text</description>
+            <points>3.0</points>
+            <criterion_id>122682_5715</criterion_id>
+            <id>122682_6526</id>
+          </rating>
+          <rating>
+            <description>Adequate Engagement with Text</description>
+            <points>2.0</points>
+            <criterion_id>122682_5715</criterion_id>
+            <id>122682_6211</id>
+          </rating>
+          <rating>
+            <description>Minimal Engagement with Text</description>
+            <points>1.0</points>
+            <criterion_id>122682_5715</criterion_id>
+            <id>122682_7644</id>
+          </rating>
+          <rating>
+            <description>No Engagement with Text</description>
+            <points>0.0</points>
+            <criterion_id>122682_5715</criterion_id>
+            <id>122682_7142</id>
+          </rating>
+        </ratings>
+      </criterion>
+      <criterion>
+        <criterion_id>122682_5217</criterion_id>
+        <points>3.0</points>
+        <description>Response to Question 3</description>
+        <ratings>
+          <rating>
+            <description>Detailed Engagement with Text</description>
+            <points>3.0</points>
+            <criterion_id>122682_5217</criterion_id>
+            <id>122682_265</id>
+          </rating>
+          <rating>
+            <description>Adequate Engagement with Text</description>
+            <points>2.0</points>
+            <criterion_id>122682_5217</criterion_id>
+            <id>122682_465</id>
+          </rating>
+          <rating>
+            <description>Minimal Engagement with Text</description>
+            <points>1.0</points>
+            <criterion_id>122682_5217</criterion_id>
+            <id>122682_5778</id>
+          </rating>
+          <rating>
+            <description>No Engagement with Text</description>
+            <points>0.0</points>
+            <criterion_id>122682_5217</criterion_id>
+            <id>122682_5776</id>
+          </rating>
+        </ratings>
+      </criterion>
+      <criterion>
+        <criterion_id>122682_4818</criterion_id>
+        <points>3.0</points>
+        <description>Peer Response</description>
+        <ratings>
+          <rating>
+            <description>Detailed Engagement with Others</description>
+            <points>3.0</points>
+            <criterion_id>122682_4818</criterion_id>
+            <id>122682_2676</id>
+          </rating>
+          <rating>
+            <description>Adequate Details with Others</description>
+            <points>2.0</points>
+            <criterion_id>122682_4818</criterion_id>
+            <id>122682_3093</id>
+          </rating>
+          <rating>
+            <description>Minimal Engagement with Others</description>
+            <points>1.0</points>
+            <criterion_id>122682_4818</criterion_id>
+            <id>122682_762</id>
+          </rating>
+          <rating>
+            <description>No Engagement with Others</description>
+            <points>0.0</points>
+            <criterion_id>122682_4818</criterion_id>
+            <id>122682_2628</id>
+          </rating>
+        </ratings>
+      </criterion>
+      <criterion>
+        <criterion_id>122682_612</criterion_id>
+        <points>1.0</points>
+        <description>Cites Bowen</description>
+        <ratings>
+          <rating>
+            <description>Satisfactory</description>
+            <points>1.0</points>
+            <criterion_id>122682_612</criterion_id>
+            <id>122682_5695</id>
+          </rating>
+          <rating>
+            <description>Unsatisfactory</description>
+            <points>0.0</points>
+            <criterion_id>122682_612</criterion_id>
+            <id>122682_2582</id>
+          </rating>
+        </ratings>
+      </criterion>
+    </criteria>
+  </rubric>
+  <rubric identifier="gbc0102b469dc2b5d29cd29b4adb6ee8b">
+    <read_only>false</read_only>
+    <title>Chronic Disease Education Presentation</title>
+    <reusable>false</reusable>
+    <public>false</public>
+    <points_possible>200.0</points_possible>
+    <hide_score_total>false</hide_score_total>
+    <free_form_criterion_comments>false</free_form_criterion_comments>
+    <criteria>
+      <criterion>
+        <criterion_id>223654_4786</criterion_id>
+        <points>40.0</points>
+        <description>Presentation Length</description>
+        <ratings>
+          <rating>
+            <description>Presentation lasted between 10-15 minutes.</description>
+            <points>40.0</points>
+            <criterion_id>223654_4786</criterion_id>
+            <id>blank</id>
+          </rating>
+          <rating>
+            <description>Presentation went over or under two minutes or less.</description>
+            <points>24.0</points>
+            <criterion_id>223654_4786</criterion_id>
+            <id>blank_2</id>
+          </rating>
+          <rating>
+            <description>Presentation went over or under four minutes or less.</description>
+            <points>12.0</points>
+            <criterion_id>223654_4786</criterion_id>
+            <id>223654_2493</id>
+          </rating>
+          <rating>
+            <description>Presentation went over or under more than ten minutes.</description>
+            <points>0.0</points>
+            <criterion_id>223654_4786</criterion_id>
+            <id>223654_6439</id>
+          </rating>
+        </ratings>
+      </criterion>
+      <criterion>
+        <criterion_id>223654_7995</criterion_id>
+        <points>60.0</points>
+        <description>In-depth and Accurate Background of Disease</description>
+        <ratings>
+          <rating>
+            <description>Included a thorough explanation of signs/symptoms, risk factors, medical diagnosis, and treatment.</description>
+            <points>60.0</points>
+            <criterion_id>223654_7995</criterion_id>
+            <id>223654_870</id>
+          </rating>
+          <rating>
+            <description>Included a thorough explanation of all the following except one: signs/symptoms, risk factors, medical diagnosis, and treatment.</description>
+            <points>46.0</points>
+            <criterion_id>223654_7995</criterion_id>
+            <id>223654_6514</id>
+          </rating>
+          <rating>
+            <description>Included a thorough explanation of all the following except two: signs/symptoms, risk factors, medical diagnosis, and treatment.</description>
+            <points>29.0</points>
+            <criterion_id>223654_7995</criterion_id>
+            <id>223654_3474</id>
+          </rating>
+          <rating>
+            <description>Included a thorough explanation of all the following except three: signs/symptoms, risk factors, medical diagnosis, and treatment.</description>
+            <points>14.0</points>
+            <criterion_id>223654_7995</criterion_id>
+            <id>223654_166</id>
+          </rating>
+          <rating>
+            <description>Did not include a thorough explanation of three or more of the following except one: signs/symptoms, risk factors, pathophysiology, medical diagnosis, and treatment.</description>
+            <points>0.0</points>
+            <criterion_id>223654_7995</criterion_id>
+            <id>223654_7549</id>
+          </rating>
+        </ratings>
+      </criterion>
+      <criterion>
+        <criterion_id>223654_2419</criterion_id>
+        <points>60.0</points>
+        <description>Diet recommendations from the Nutrition Care Manual and relevant research articles</description>
+        <ratings>
+          <rating>
+            <description>Includes all relevant diet recommendations from the Nutrition Care Manual, Krause, functions of key nutrients and non-nutritive substances, and any relevant peer-reviewed research articles.</description>
+            <points>60.0</points>
+            <criterion_id>223654_2419</criterion_id>
+            <id>223654_3445</id>
+          </rating>
+          <rating>
+            <description>Includes most of the diet recommendations from the Nutrition Care Manual, Krause,  functions of key nutrients and non-nutritive substances, and any relevant peer-reviewed research articles.</description>
+            <points>46.0</points>
+            <criterion_id>223654_2419</criterion_id>
+            <id>223654_7265</id>
+          </rating>
+          <rating>
+            <description>Includes some of the diet recommendations from the Nutrition Care Manual,  functions of key nutrients and non-nutritive substances, Krause, and any relevant peer-reviewed research articles.</description>
+            <points>29.0</points>
+            <criterion_id>223654_2419</criterion_id>
+            <id>223654_8364</id>
+          </rating>
+          <rating>
+            <description>Includes very little of the diet recommendations from the Nutrition Care Manual,  functions of key nutrients and non-nutritive substances, Krause, and any relevant peer-reviewed research articles.</description>
+            <points>14.0</points>
+            <criterion_id>223654_2419</criterion_id>
+            <id>223654_2371</id>
+          </rating>
+          <rating>
+            <description>Does not include diet recommendations from the Nutrition Care Manual, Krause, and any relevant peer-reviewed research articles.</description>
+            <points>0.0</points>
+            <criterion_id>223654_2419</criterion_id>
+            <id>223654_3002</id>
+          </rating>
+        </ratings>
+      </criterion>
+      <criterion>
+        <criterion_id>223654_5829</criterion_id>
+        <points>40.0</points>
+        <description>Presentation Skills and Attire</description>
+        <ratings>
+          <rating>
+            <description>No distracting verbal or physical habits (um and uh).   Attire is appropriate for a national conference.  Great eye contact.  No reading.</description>
+            <points>40.0</points>
+            <criterion_id>223654_5829</criterion_id>
+            <id>223654_2769</id>
+          </rating>
+          <rating>
+            <description>Some distracting verbal or physical habits (um and uh).   Attire is appropriate for a national conference.  Partial eye contact OR reading was observed.</description>
+            <points>24.0</points>
+            <criterion_id>223654_5829</criterion_id>
+            <id>223654_3320</id>
+          </rating>
+          <rating>
+            <description>Many distracting verbal or physical habits (um and uh).   Attire is not appropriate for a national conference.  Partial eye contact AND reading was observed.</description>
+            <points>16.0</points>
+            <criterion_id>223654_5829</criterion_id>
+            <id>223654_1406</id>
+          </rating>
+          <rating>
+            <description>Numerous distracting verbal or physical habits (um and uh).   Attire is not appropriate for a national conference.  Poor eye contact.  Lots of  reading.</description>
+            <points>0.0</points>
+            <criterion_id>223654_5829</criterion_id>
+            <id>223654_4559</id>
+          </rating>
+        </ratings>
+      </criterion>
+    </criteria>
+  </rubric>
+</rubrics>

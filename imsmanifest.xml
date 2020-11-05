@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="g37ff7520f9c586e7dcd3e14b0b67c8a4" xmlns="http://www.imsglobal.org/xsd/imsccv1p1/imscp_v1p1" xmlns:lom="http://ltsc.ieee.org/xsd/imsccv1p1/LOM/resource" xmlns:lomimscc="http://ltsc.ieee.org/xsd/imsccv1p1/LOM/manifest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsccv1p1/imscp_v1p1 http://www.imsglobal.org/profile/cc/ccv1p1/ccv1p1_imscp_v1p2_v1p0.xsd http://ltsc.ieee.org/xsd/imsccv1p1/LOM/resource http://www.imsglobal.org/profile/cc/ccv1p1/LOM/ccv1p1_lomresource_v1p0.xsd http://ltsc.ieee.org/xsd/imsccv1p1/LOM/manifest http://www.imsglobal.org/profile/cc/ccv1p1/LOM/ccv1p1_lommanifest_v1p0.xsd">
+  <metadata>
+    <schema>IMS Common Cartridge</schema>
+    <schemaversion>1.1.0</schemaversion>
+    <lomimscc:lom>
+      <lomimscc:general>
+        <lomimscc:title>
+          <lomimscc:string>du-canvas-course-template-helium</lomimscc:string>
+        </lomimscc:title>
+      </lomimscc:general>
+      <lomimscc:lifeCycle>
+        <lomimscc:contribute>
+          <lomimscc:date>
+            <lomimscc:dateTime>2020-11-05</lomimscc:dateTime>
+          </lomimscc:date>
+        </lomimscc:contribute>
+      </lomimscc:lifeCycle>
+      <lomimscc:rights>
+        <lomimscc:copyrightAndOtherRestrictions>
+          <lomimscc:value>yes</lomimscc:value>
+        </lomimscc:copyrightAndOtherRestrictions>
+        <lomimscc:description>
+          <lomimscc:string>Private (Copyrighted) - http://en.wikipedia.org/wiki/Copyright</lomimscc:string>
+        </lomimscc:description>
+      </lomimscc:rights>
+    </lomimscc:lom>
+  </metadata>
+  <organizations>
+    <organization identifier="org_1" structure="rooted-hierarchy">
+      <item identifier="LearningModules">
+        <item identifier="gaad362cc166e24dec7af5618026a42ae">
+          <title>Course Introduction</title>
+          <item identifier="gd1bd4426fbd8dd4d31bef64c7426815d" identifierref="g53154225811ec7a1e5177b87a83d9baf">
+            <title>[T] *Advanced* Course Welcome Page with Masthead Image and Weekly Accordions</title>
+          </item>
+          <item identifier="gc5d15b65250a2a217308f3c887636551" identifierref="g5f72dc5767a5e5414d7f1e3a85714d2f">
+            <title>[T] How To Use Canvas</title>
+          </item>
+          <item identifier="g5ca65a027f81ba90f58edecb9fb5f819" identifierref="g06cc2d88fb3517baa5c68f87075869bf">
+            <title>[T] Technology Requirements</title>
+          </item>
+          <item identifier="gae8a9aefc366f11fe78a1df2089da952" identifierref="g2ff4c6ee3074e16b51c4a4da191e9520">
+            <title>[T] Academic Policies</title>
+          </item>
+          <item identifier="gdcf6c911d9791f0656aa046977a049bd" identifierref="g7d105aa63d4fa9c73b7337fc96c4a6cc">
+            <title>[T] Basic Discussion - Introduce Yourself</title>
+          </item>
+        </item>
+        <item identifier="gf1e4a57507ba75119e9a7915ce1540ea">
+          <title>Week 1</title>
+          <item identifier="g3abb9e4b42bb6ea2424a766c8d2dc194" identifierref="g9f1b09fdc9690a93d38e509c7abba487">
+            <title>[T] Week 1 - Home</title>
+          </item>
+          <item identifier="gb11686d7724a5397448bce5cd168f8d2" identifierref="g3d8ee5a9aa3ffc333b9cc16fb03e844e">
+            <title>[T] Basic Assignment</title>
+          </item>
+          <item identifier="g27890d8e8b96443d642cbf4192052929" identifierref="g7585843250e2eeabf65192c5216deb8f">
+            <title>[T] Advanced Assignment with Rubric</title>
+          </item>
+          <item identifier="gbedc60007eca9d8ff04e4fb46f8dc5b9" identifierref="g71eb6046e3fcb16d2f3bb2b5c5ac494e">
+            <title>[T] Advanced Discussion with a Video Introduction and Group Work</title>
+          </item>
+        </item>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="g174bbfc46ee0227c2fc2d32076fba253" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="course_settings/canvas_export.txt">
+      <file href="course_settings/module_meta.xml"/>
+      <file href="course_settings/assignment_groups.xml"/>
+      <file href="course_settings/rubrics.xml"/>
+      <file href="course_settings/files_meta.xml"/>
+      <file href="course_settings/media_tracks.xml"/>
+      <file href="course_settings/canvas_export.txt"/>
+    </resource>
+    <resource identifier="gd8d68acf17e0132d82725147db332c8a" type="webcontent" href="wiki_content/t-basic-syllabus.html">
+      <file href="wiki_content/t-basic-syllabus.html"/>
+    </resource>
+    <resource identifier="ga98c8d1f90eedda39c232691fcac97ad" type="webcontent" href="wiki_content/t-basic-course-welcome-page.html">
+      <file href="wiki_content/t-basic-course-welcome-page.html"/>
+    </resource>
+    <resource identifier="g5f72dc5767a5e5414d7f1e3a85714d2f" type="webcontent" href="wiki_content/t-how-to-use-canvas.html">
+      <file href="wiki_content/t-how-to-use-canvas.html"/>
+    </resource>
+    <resource identifier="g53154225811ec7a1e5177b87a83d9baf" type="webcontent" href="wiki_content/t-star-advanced-star-course-welcome-page-with-masthead-image-and-weekly-accordions.html">
+      <file href="wiki_content/t-star-advanced-star-course-welcome-page-with-masthead-image-and-weekly-accordions.html"/>
+    </resource>
+    <resource identifier="g04812d160924078dcb7c05f0329b4d10" type="webcontent" href="wiki_content/t-star-advanced-star-syllabus-with-masthead-image.html">
+      <file href="wiki_content/t-star-advanced-star-syllabus-with-masthead-image.html"/>
+    </resource>
+    <resource identifier="g06cc2d88fb3517baa5c68f87075869bf" type="webcontent" href="wiki_content/t-technology-requirements.html">
+      <file href="wiki_content/t-technology-requirements.html"/>
+    </resource>
+    <resource identifier="g2ff4c6ee3074e16b51c4a4da191e9520" type="webcontent" href="wiki_content/t-academic-policies.html">
+      <file href="wiki_content/t-academic-policies.html"/>
+    </resource>
+    <resource identifier="g9f1b09fdc9690a93d38e509c7abba487" type="webcontent" href="wiki_content/t-week-1-home.html">
+      <file href="wiki_content/t-week-1-home.html"/>
+    </resource>
+    <resource identifier="g7585843250e2eeabf65192c5216deb8f" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g7585843250e2eeabf65192c5216deb8f/t-advanced-assignment-with-rubric.html">
+      <file href="g7585843250e2eeabf65192c5216deb8f/t-advanced-assignment-with-rubric.html"/>
+      <file href="g7585843250e2eeabf65192c5216deb8f/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g3d8ee5a9aa3ffc333b9cc16fb03e844e" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g3d8ee5a9aa3ffc333b9cc16fb03e844e/t-basic-assignment.html">
+      <file href="g3d8ee5a9aa3ffc333b9cc16fb03e844e/t-basic-assignment.html"/>
+      <file href="g3d8ee5a9aa3ffc333b9cc16fb03e844e/assignment_settings.xml"/>
+    </resource>
+    <resource identifier="g71eb6046e3fcb16d2f3bb2b5c5ac494e" type="imsdt_xmlv1p1">
+      <file href="g71eb6046e3fcb16d2f3bb2b5c5ac494e.xml"/>
+      <dependency identifierref="g4db610398b25c2bd4ea9c9a4274e04df"/>
+    </resource>
+    <resource identifier="g4db610398b25c2bd4ea9c9a4274e04df" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g4db610398b25c2bd4ea9c9a4274e04df.xml">
+      <file href="g4db610398b25c2bd4ea9c9a4274e04df.xml"/>
+    </resource>
+    <resource identifier="g7d105aa63d4fa9c73b7337fc96c4a6cc" type="imsdt_xmlv1p1">
+      <file href="g7d105aa63d4fa9c73b7337fc96c4a6cc.xml"/>
+      <dependency identifierref="g8465ceaeca5646bea6294ddfecbc3558"/>
+    </resource>
+    <resource identifier="g8465ceaeca5646bea6294ddfecbc3558" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g8465ceaeca5646bea6294ddfecbc3558.xml">
+      <file href="g8465ceaeca5646bea6294ddfecbc3558.xml"/>
+    </resource>
+    <resource type="webcontent" identifier="g3bc062f0bfe6969060b69f171e078387" href="web_resources/DU Theme/masthead-course-welcome.jpg">
+      <file href="web_resources/DU Theme/masthead-course-welcome.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="g8a5479964e2a0f42dd5e6574ce3ddf71" href="web_resources/DU Theme/masthead-week-01.jpg">
+      <file href="web_resources/DU Theme/masthead-week-01.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="g41241f886fcc77f509aa094de0718dc4" href="web_resources/DU Theme/masthead-syllabus.jpg">
+      <file href="web_resources/DU Theme/masthead-syllabus.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="gfee734997b66e28e9aefbb7f7428aad9" href="web_resources/DU Theme/style.css">
+      <file href="web_resources/DU Theme/style.css"/>
+    </resource>
+  </resources>
+</manifest>

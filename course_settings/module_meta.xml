@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modules xmlns="http://canvas.instructure.com/xsd/cccv1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://canvas.instructure.com/xsd/cccv1p0 https://canvas.instructure.com/xsd/cccv1p0.xsd">
+  <module identifier="gaad362cc166e24dec7af5618026a42ae">
+    <title>Course Introduction</title>
+    <workflow_state>active</workflow_state>
+    <position>1</position>
+    <require_sequential_progress>false</require_sequential_progress>
+    <locked>false</locked>
+    <items>
+      <item identifier="gd1bd4426fbd8dd4d31bef64c7426815d">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>[T] *Advanced* Course Welcome Page with Masthead Image and Weekly Accordions</title>
+        <identifierref>g53154225811ec7a1e5177b87a83d9baf</identifierref>
+        <position>1</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+      <item identifier="gc5d15b65250a2a217308f3c887636551">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>[T] How To Use Canvas</title>
+        <identifierref>g5f72dc5767a5e5414d7f1e3a85714d2f</identifierref>
+        <position>2</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+      <item identifier="g5ca65a027f81ba90f58edecb9fb5f819">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>[T] Technology Requirements</title>
+        <identifierref>g06cc2d88fb3517baa5c68f87075869bf</identifierref>
+        <position>3</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+      <item identifier="gae8a9aefc366f11fe78a1df2089da952">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>[T] Academic Policies</title>
+        <identifierref>g2ff4c6ee3074e16b51c4a4da191e9520</identifierref>
+        <position>4</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+      <item identifier="gdcf6c911d9791f0656aa046977a049bd">
+        <content_type>DiscussionTopic</content_type>
+        <workflow_state>active</workflow_state>
+        <title>[T] Basic Discussion - Introduce Yourself</title>
+        <identifierref>g7d105aa63d4fa9c73b7337fc96c4a6cc</identifierref>
+        <position>5</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+    </items>
+  </module>
+  <module identifier="gf1e4a57507ba75119e9a7915ce1540ea">
+    <title>Week 1</title>
+    <workflow_state>active</workflow_state>
+    <position>2</position>
+    <require_sequential_progress>false</require_sequential_progress>
+    <locked>false</locked>
+    <items>
+      <item identifier="g3abb9e4b42bb6ea2424a766c8d2dc194">
+        <content_type>WikiPage</content_type>
+        <workflow_state>active</workflow_state>
+        <title>[T] Week 1 - Home</title>
+        <identifierref>g9f1b09fdc9690a93d38e509c7abba487</identifierref>
+        <position>1</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+      <item identifier="gb11686d7724a5397448bce5cd168f8d2">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>[T] Basic Assignment</title>
+        <identifierref>g3d8ee5a9aa3ffc333b9cc16fb03e844e</identifierref>
+        <position>2</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+      <item identifier="g27890d8e8b96443d642cbf4192052929">
+        <content_type>Assignment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>[T] Advanced Assignment with Rubric</title>
+        <identifierref>g7585843250e2eeabf65192c5216deb8f</identifierref>
+        <position>3</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+      <item identifier="gbedc60007eca9d8ff04e4fb46f8dc5b9">
+        <content_type>DiscussionTopic</content_type>
+        <workflow_state>active</workflow_state>
+        <title>[T] Advanced Discussion with a Video Introduction and Group Work</title>
+        <identifierref>g71eb6046e3fcb16d2f3bb2b5c5ac494e</identifierref>
+        <position>4</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+      </item>
+    </items>
+  </module>
+</modules>

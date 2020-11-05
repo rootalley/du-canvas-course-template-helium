@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topicMeta identifier="g8465ceaeca5646bea6294ddfecbc3558" xmlns="http://canvas.instructure.com/xsd/cccv1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://canvas.instructure.com/xsd/cccv1p0 https://canvas.instructure.com/xsd/cccv1p0.xsd">
+  <topic_id>g7d105aa63d4fa9c73b7337fc96c4a6cc</topic_id>
+  <title>[T] Basic Discussion - Introduce Yourself</title>
+  <position/>
+  <type>topic</type>
+  <discussion_type>threaded</discussion_type>
+  <require_initial_post>true</require_initial_post>
+  <has_group_category>false</has_group_category>
+  <workflow_state>active</workflow_state>
+  <module_locked>false</module_locked>
+  <allow_rating>false</allow_rating>
+  <only_graders_can_rate>false</only_graders_can_rate>
+  <sort_by_rating>false</sort_by_rating>
+  <todo_date/>
+  <assignment identifier="gf9edf73c9b888a9bf6415a00a10c8d0e">
+    <title>[T] Basic Discussion - Introduce Yourself</title>
+    <due_at/>
+    <lock_at/>
+    <unlock_at/>
+    <module_locked>false</module_locked>
+    <assignment_group_identifierref>g599c56ede1751ae5a4be0a937adb4ec0</assignment_group_identifierref>
+    <workflow_state>published</workflow_state>
+    <assignment_overrides>
+    </assignment_overrides>
+    <allowed_extensions></allowed_extensions>
+    <has_group_category>false</has_group_category>
+    <points_possible>0.0</points_possible>
+    <grading_type>points</grading_type>
+    <all_day>false</all_day>
+    <submission_types>discussion_topic</submission_types>
+    <position>1</position>
+    <turnitin_enabled>false</turnitin_enabled>
+    <vericite_enabled>false</vericite_enabled>
+    <peer_review_count>0</peer_review_count>
+    <peer_reviews>false</peer_reviews>
+    <automatic_peer_reviews>false</automatic_peer_reviews>
+    <anonymous_peer_reviews>false</anonymous_peer_reviews>
+    <grade_group_students_individually>false</grade_group_students_individually>
+    <freeze_on_copy>false</freeze_on_copy>
+    <omit_from_final_grade>false</omit_from_final_grade>
+    <intra_group_peer_reviews>false</intra_group_peer_reviews>
+    <only_visible_to_overrides>false</only_visible_to_overrides>
+    <post_to_sis>false</post_to_sis>
+    <moderated_grading>false</moderated_grading>
+    <grader_count>0</grader_count>
+    <grader_comments_visible_to_graders>true</grader_comments_visible_to_graders>
+    <anonymous_grading>false</anonymous_grading>
+    <graders_anonymous_to_graders>false</graders_anonymous_to_graders>
+    <grader_names_visible_to_final_grader>true</grader_names_visible_to_final_grader>
+    <anonymous_instructor_annotations>false</anonymous_instructor_annotations>
+    <post_policy>
+      <post_manually>false</post_manually>
+    </post_policy>
+  </assignment>
+</topicMeta>
